@@ -1,6 +1,6 @@
 ﻿CompanyName,Symbol,Sector,MarketCap,P/E Ratio,Beta (Volatility),Employees,Outstanding Shares,Institutional_Holding_perc,Retail_Holding_perc,
 APPLE INC.,AAPL,"Computers, Phones & Household Electronics"," $2,663,332,608,000 ",27.10,1.19,"154,000","16,319,440,000",59.51,40.49,
-MICROSOFT CORPORATION,MSFT,Software & IT Services," $2,211,200,626,700 ",31.38,0.91,"181,000","7,496,866,000",71.99,28.01,
+MICROSOFT CORP.,MSFT,Software & IT Services," $2,211,200,626,700 ",31.38,0.91,"181,000","7,496,866,000",71.99,28.01,
 UNITEDHEALTH GROUP INCORPORATED,UNH,Healthcare Providers & Services," $448,103,244,000 ",26.34,0.87,"350,000","940,899,200",89.59,10.41,
 VISA INC.,V,Software & IT Services," $438,171,848,490 ",39.00,0.92,"21,500","2,096,817,000",96.07,3.93,
 JOHNSON & JOHNSON,JNJ,Pharmaceuticals," $431,199,952,000 ",20.99,0.71,"141,700","2,629,268,000",70.39,29.61,
