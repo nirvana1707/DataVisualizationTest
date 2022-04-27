@@ -1,4 +1,4 @@
-﻿CompanyName,Symbol,Sector1,Sector,MarketCap,P/E Ratio,Beta (Volatility),Employees,Outstanding Shares,Institutional_Holding_perc,Retail_Holding_perc,2017,2018,2019,2020,2021,2022
+﻿CompanyName,Symbol,Sector1,Sector,MarketCap,PE,Beta,Employees,OutstandingShares,Institutional_Holding_perc,Retail_Holding_perc,2017,2018,2019,2020,2021,2022
 APPLE INC.,AAPL,"Computers, Phones & Household Electronics",Computer & Software,"$2,663,332,608,000 ",27.1,1.19,"154,000","16,319,440,000",59.51,40.49,106.848745,136.0802582,112.1227889,157.5646466,90.5170119,95.46857
 AMGEN INC.,AMGN,Pharmaceuticals,"Housing, Healthcare, Food & Drugs","$125,448,591,174 ",21.84,0.59,"24,200","557,029,400",77.93,22.07,3.072219431,3.466831873,2.796368254,2.803086561,2.657972619,3.23117
 AMERICAN EXPRESS COMPANY,AXP,Banking Services,Banking Services,"$135,203,157,750 ",17.82,1.11,"64,000","759,355,000",86.97,13.03,3.419200474,3.676847809,3.262663889,5.244050988,3.568770238,4.5464425
